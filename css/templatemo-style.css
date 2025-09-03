@@ -176,7 +176,7 @@ hr {
 .portfolio-item-title {
   font-weight: bold;
   margin-top: 10px;
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 .portfolio-thumb {
   overflow: hidden;
@@ -197,7 +197,7 @@ hr {
   -webkit-justify-content: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #eb5424;
+  background: #24a2eb;
   color: #ffffff;
   top: 0;
   right: 0;
